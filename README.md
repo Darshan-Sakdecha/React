@@ -7,9 +7,9 @@ A personal repository to practice and learn React.js fundamentals.
 - JSX
 - Components
 - Props & State
-- Hooks (useState, useEffect, etc.)
+- Hooks (useState, useEffect, useCallback, useRef, useId etc.)
 - React Router
-- API Calls with Axios
+- API Calls with Axios/Fetch
 
 ## Getting Started
 
@@ -19,4 +19,4 @@ A personal repository to practice and learn React.js fundamentals.
 git clone https://github.com/Darshan-Sakdecha/react.git
 cd react
 npm install
-npm start
+npm run dev

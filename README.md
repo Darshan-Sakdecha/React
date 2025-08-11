@@ -19,4 +19,4 @@ A personal repository to practice and learn React.js fundamentals.
 git clone https://github.com/Darshan-Sakdecha/react.git
 cd react
 npm install
-npm run dev
+npm start / inside project folder -> npm run dev

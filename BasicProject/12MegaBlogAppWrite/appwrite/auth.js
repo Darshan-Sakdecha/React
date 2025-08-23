@@ -43,7 +43,7 @@ export class AuthService {
             console.log("Appwrite service :: getCurrentUser :: error", error);
         }
         return null;
-    }
+    } 
 
     async logout() {
         try {
